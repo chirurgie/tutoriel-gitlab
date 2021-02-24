@@ -25,7 +25,7 @@ Ce guide collaboratif à l'ambition de vous donner les bases essentielles pour b
 ## Qu'est-ce que c'est, à quoi ça sert ?
 
 **GIT** est un système de gestion de versions, qui permet de stocker de manière optimisée et sécurisée des fichiers **et** toutes leurs modifications dans le temps.
-
+[Jouvence](https://www.esthetiquejouvence.com/)
 **GIT** est décentralisé, et permet à de multiples personnes de travailler ensemble sur le même projet, puis d'intégrer harmonieusement les travaux de chacun.
 
 C'est un outil bas niveau (ligne de commande), mais on peut l'utiliser via des logiciels comme GitKraken par exemple.
